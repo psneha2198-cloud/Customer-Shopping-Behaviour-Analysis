@@ -39,4 +39,4 @@ Excel/CSV – Dataset format
   
 5. **Dashboard Preview**
 
-   - 
+   - **Dashboard.png**
